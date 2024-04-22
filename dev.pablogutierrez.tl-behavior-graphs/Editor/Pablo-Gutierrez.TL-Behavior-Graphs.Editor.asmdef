@@ -1,0 +1,16 @@
+{
+    "name": "Pablo-Gutierrez.TL-Behavior-Graphs.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:2284d373effc2104a942bc1990f17a9e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

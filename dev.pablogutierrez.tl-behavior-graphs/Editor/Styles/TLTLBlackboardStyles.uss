@@ -1,0 +1,6 @@
+Button
+{
+	margin-x: auto;
+	max-height: var(--tltl-metrics-window-pixels-25);
+	width: auto;
+}
